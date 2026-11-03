@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34313534/README.md)
 <div align="center">
 
 # Mohamed Aziz Turki
@@ -54,12 +53,15 @@ A temperature-oriented monitoring and control prototype developed during an engi
 - Demonstrates the integration of embedded hardware and IoT connectivity.
 
 ### 💡 Smart Light Control
-An IoT lighting-control project connecting an Android application to an ESP8266 device through MQTT.
+An Android lighting-control prototype that publishes commands over MQTT. The [SmartLight repository](https://github.com/AzizTurki21/SmartLight) now includes the extracted Android project and setup notes.
 
-### 🌐 Web Development Projects
-Web projects built with technologies including HTML, CSS, JavaScript, and PHP, including a website for a local gym.
+### 🌐 Web and Data Projects
+- [Chetranj](https://github.com/AzizTurki21/Chetranj) · a browser chess app with room creation and multiplayer play.
+- [PowerGYMwebsite](https://github.com/AzizTurki21/PowerGYMwebsite) · a PHP and MySQL gym management website.
+- [Advanced Data Management project](https://github.com/AzizTurki21/Advanced-Data-Managment-Project-Individual-) · university coursework exploring mobility data with relational, Spark, and graph-oriented work.
+- [Portfolio](https://github.com/AzizTurki21/Portfolio) · my personal portfolio site.
 
-> Project descriptions reflect the work and technologies documented in my CV and project history. Individual repositories will be linked here as they are reviewed and prepared.
+Some of the projects above are described from my CV and project history; their implementation code is not linked to a public repository yet.
 
 ## Tech stack
 
