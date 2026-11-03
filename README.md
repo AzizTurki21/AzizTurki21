@@ -57,8 +57,8 @@ An Android lighting-control prototype that publishes commands over MQTT. The [Sm
 
 ### 🌐 Web and Data Projects
 - [Chetranj](https://github.com/AzizTurki21/Chetranj) · a browser chess app with room creation and multiplayer play.
-- [PowerGYMwebsite](https://github.com/AzizTurki21/PowerGYMwebsite) · a PHP and MySQL gym management website.
-- [Advanced Data Management project](https://github.com/AzizTurki21/Advanced-Data-Managment-Project-Individual-) · university coursework exploring mobility data with relational, Spark, and graph-oriented work.
+- [PowerGYM](https://github.com/AzizTurki21/powergym-management-app) · a PHP and MySQL gym management website.
+- [Advanced Data Management project](https://github.com/AzizTurki21/mobility-data-management) · university coursework exploring mobility data with relational, Spark, and graph-oriented work.
 - [Portfolio](https://github.com/AzizTurki21/Portfolio) · my personal portfolio site.
 
 Some of the projects above are described from my CV and project history; their implementation code is not linked to a public repository yet.
