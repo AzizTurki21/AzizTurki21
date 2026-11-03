@@ -25,18 +25,20 @@ I enjoy designing practical technology that connects intelligent software with p
 - Embedded Systems, microcontrollers, and robotics
 - Python development, data analysis, and automation
 
-I have worked on projects ranging from an AI-assisted smart traffic management system to IoT control applications and an all-terrain robot.
+I have worked on projects ranging from an AI-assisted smart traffic management prototype to IoT control applications and an all-terrain robot.
 
 **Currently:** expanding my knowledge of AI while developing practical skills in intelligent embedded systems.
 
 ## Featured projects
 
-### 🚦 Smart Traffic Management System
-A real-time traffic management prototype designed to detect emergency vehicles and support adaptive traffic-light control.
+### 🚦 Smart Traffic System
 
-- **Hardware & connectivity:** Raspberry Pi 4, ESP32, Heltec LoRa, RFID/NFC, cameras, and MQTT.
-- **AI / vision:** vehicle detection and traffic monitoring using YOLOv8n.
-- **Goal:** explore emergency-vehicle prioritization and traffic-flow optimization.
+Co-developed with Amen Allah Bayoudh as our 2023–24 final-year project at ISET de Radès, this prototype combines camera-based priority-vehicle detection with traffic-light control.
+
+- **Vision:** Raspberry Pi 4, USB cameras, OpenCV, and a trained YOLOv8n model for emergency-vehicle detection.
+- **Communication:** MQTT through HiveMQ connects detection events to the intersection controller; Heltec LoRa boards send signal-state updates to a model smart vehicle, where RFID tags identify its lane and intersection position.
+- **Measured constraint:** the report records detection delays of about 24–27 seconds on the Raspberry Pi setup, reduced to 4–8 seconds after skipping frames, lowering camera resolution, and using multiprocessing. It remained a prototype with processing limits.
+- **Project report:** the report describes the design, implementation, hardware, and testing. The implementation source code is not linked here.
 
 ### 🤖 All-Terrain Robot
 An engineering competition robot developed around an ESP32-based control system.
@@ -61,7 +63,7 @@ An Android lighting-control prototype that publishes commands over MQTT. The [Sm
 - [Advanced Data Management project](https://github.com/AzizTurki21/mobility-data-management) · university coursework exploring mobility data with relational, Spark, and graph-oriented work.
 - [Portfolio](https://github.com/AzizTurki21/Portfolio) · my personal portfolio site.
 
-Some of the projects above are described from my CV and project history; their implementation code is not linked to a public repository yet.
+Some projects above are documented from my project experience, but their source code is not currently linked on this profile.
 
 ## Tech stack
 
