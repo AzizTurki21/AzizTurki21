@@ -38,7 +38,7 @@ Co-developed with Amen Allah Bayoudh as our 2023–24 final-year project at ISET
 - **Vision:** Raspberry Pi 4, USB cameras, OpenCV, and a trained YOLOv8n model for emergency-vehicle detection.
 - **Communication:** MQTT through HiveMQ connects detection events to the intersection controller; Heltec LoRa boards send signal-state updates to a model smart vehicle, where RFID tags identify its lane and intersection position.
 - **Measured constraint:** the report records detection delays of about 24–27 seconds on the Raspberry Pi setup, reduced to 4–8 seconds after skipping frames, lowering camera resolution, and using multiprocessing. It remained a prototype with processing limits.
-- **Project report:** the report describes the design, implementation, hardware, and testing. The implementation source code is not linked here.
+- **Code and report:** the original source is no longer available. The [smart-traffic-system repository](https://github.com/AzizTurki21/smart-traffic-system) contains a new reconstruction based on the report, not the recovered original.
 
 ### 🤖 All-Terrain Robot
 An engineering competition robot developed around an ESP32-based control system.
