@@ -56,7 +56,7 @@ A temperature-oriented monitoring and control prototype developed during an engi
 An Android lighting-control prototype that publishes commands over MQTT. The [SmartLight repository](https://github.com/AzizTurki21/SmartLight) now includes the extracted Android project and setup notes.
 
 ### 🌐 Web and Data Projects
-- [Chetranj](https://github.com/AzizTurki21/Chetranj) · a browser chess app with room creation and multiplayer play.
+- [Chetranj](https://github.com/AzizTurki21/Chetranj) · multiplayer chess inspired by an old Tunisian café, with [the live game](https://genuine-pastelito-4babe7.netlify.app).
 - [PowerGYM](https://github.com/AzizTurki21/powergym-management-app) · a PHP and MySQL gym management website.
 - [Advanced Data Management project](https://github.com/AzizTurki21/mobility-data-management) · university coursework exploring mobility data with relational, Spark, and graph-oriented work.
 - [Portfolio](https://github.com/AzizTurki21/Portfolio) · my personal portfolio site.
