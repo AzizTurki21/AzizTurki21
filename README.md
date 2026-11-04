@@ -44,13 +44,13 @@ Co-developed with Amen Allah Bayoudh as our 2023–24 final-year project at ISET
 A collaborative robotics project with Amen Allah Bayoudh. The team built two ESP32-controlled, laser-cut robots, DEAD-SHOT and LA7NACH, placing 2nd at ESPRIT RAS Robots 2.0 in 2024 and 1st at ISTIC Robots 2.0 in 2025.
 
 - The project combined motor control, power electronics, custom robot bodies, and competition testing.
-- The project showcase repository includes the photo and project overview.
+- **Project showcase:** [photos and overview](https://github.com/AzizTurki21/all-terrain-robot). This repository does not include source code.
 
 ### 🤖 AI Companion Robot
-A collaborative home-robot project with Amen Allah Bayoudh, combining multilingual voice interaction with mobile control. The Raspberry Pi handles speech and responses, while an ESP32 receives movement commands over MQTT.
+A collaborative home-robot project with Amen Allah Bayoudh, combining multilingual voice interaction with mobile control. The Raspberry Pi handles speech and responses, while an ESP32 receives movement commands over MQTT. [Project photo and overview](https://github.com/AzizTurki21/ai-companion-robot) · no source code included.
 
 ### 🏁 PID Line-Following Robot
-A collaborative line-following robot with Amen Allah Bayoudh, using a PID control loop with IR sensors and encoders. The project showcase repository includes the photo and project overview.
+A collaborative line-following robot with Amen Allah Bayoudh, using a PID control loop with IR sensors and encoders. [Project photo and overview](https://github.com/AzizTurki21/pid-line-following-robot) · no source code included.
 
 ### 🌡️ IoT Smart Valve Control
 A temperature-oriented monitoring and control prototype developed during an engineering internship.
