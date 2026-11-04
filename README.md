@@ -52,13 +52,10 @@ A collaborative home-robot project with Amen Allah Bayoudh, combining multilingu
 ### 🏁 PID Line-Following Robot
 A collaborative line-following robot with Amen Allah Bayoudh, using a PID control loop with IR sensors and encoders. [Project photo and overview](https://github.com/AzizTurki21/pid-line-following-robot) · no source code included.
 
-### 🌡️ IoT Smart Valve Control
-A temperature-oriented monitoring and control prototype developed during an engineering internship.
+### 🌡️ Smart Valve Control
+A 2023 internship prototype at FUBA Printed Circuits using a NodeMCU ESP8266 and DHT11 for temperature and humidity monitoring. The report describes threshold-based solenoid control, a Blynk dashboard with manual valve control, and Google Sheets logging every five minutes. It does not specify the automatic threshold, and the original firmware files are unavailable.
 
-- ESP8266-based device control.
-- Remote operation through a mobile application using Blynk.
-- Demonstrates the integration of embedded hardware and IoT connectivity.
-
+- [Project overview, internship report, circuit diagram and Blynk dashboard](https://github.com/AzizTurki21/smart-valve-iot)
 ### 💡 Smart Light Control
 An Android lighting-control prototype that publishes commands over MQTT. The [SmartLight repository](https://github.com/AzizTurki21/SmartLight) now includes the extracted Android project and setup notes.
 
