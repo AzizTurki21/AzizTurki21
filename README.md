@@ -109,9 +109,8 @@ I also enjoy robotics competitions, creative video editing, football, and explor
 
 I'm interested in collaborations, internships, and projects involving AI, IoT, embedded development, and robotics.
 
-- **Future project repositories: start with the [README template](README_TEMPLATE.md), which includes this signature.
-
-- **Email:**** [turkiaziz2121@gmail.com](mailto:turkiaziz2121@gmail.com)
+- **Future project repositories:** start with the [README template](README_TEMPLATE.md), which includes this signature.
+- **Email:** [turkiaziz2121@gmail.com](mailto:turkiaziz2121@gmail.com)
 - **GitHub:** [@AzizTurki21](https://github.com/AzizTurki21)
 
 ---
