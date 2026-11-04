@@ -41,16 +41,16 @@ Co-developed with Amen Allah Bayoudh as our 2023–24 final-year project at ISET
 - **Code and report:** the original source is no longer available. The [smart-traffic-system repository](https://github.com/AzizTurki21/smart-traffic-system) contains a new reconstruction based on the report, not the recovered original.
 
 ### 🤖 All-Terrain Robot
-A collaborative robotics project with [Amen Allah Bayoudh](https://amen-bayoudh.netlify.app/projects/all-terrain-robot). The team built two ESP32-controlled, laser-cut robots, DEAD-SHOT and LA7NACH, placing 2nd at ESPRIT RAS Robots 2.0 in 2024 and 1st at ISTIC Robots 2.0 in 2025.
+A collaborative robotics project with Amen Allah Bayoudh. The team built two ESP32-controlled, laser-cut robots, DEAD-SHOT and LA7NACH, placing 2nd at ESPRIT RAS Robots 2.0 in 2024 and 1st at ISTIC Robots 2.0 in 2025.
 
 - The project combined motor control, power electronics, custom robot bodies, and competition testing.
-- The linked case study includes the robot designs, architecture, and event photos.
+- The project showcase repository includes the photo and project overview.
 
 ### 🤖 AI Companion Robot
-A collaborative home-robot project with [Amen Allah Bayoudh](https://amen-bayoudh.netlify.app/projects/ai-companion), combining multilingual voice interaction with mobile control. The Raspberry Pi handles speech and responses, while an ESP32 receives movement commands over MQTT.
+A collaborative home-robot project with Amen Allah Bayoudh, combining multilingual voice interaction with mobile control. The Raspberry Pi handles speech and responses, while an ESP32 receives movement commands over MQTT.
 
 ### 🏁 PID Line-Following Robot
-A collaborative line-following robot with [Amen Allah Bayoudh](https://amen-bayoudh.netlify.app/projects/line-follower), using a PID control loop with IR sensors and encoders. The linked case study includes its hardware details and competition context.
+A collaborative line-following robot with Amen Allah Bayoudh, using a PID control loop with IR sensors and encoders. The project showcase repository includes the photo and project overview.
 
 ### 🌡️ IoT Smart Valve Control
 A temperature-oriented monitoring and control prototype developed during an engineering internship.
